@@ -67,7 +67,7 @@ Covering the small and big data lifecycles;
 * Context 1: Point in time when individuals agree to exchange access to their personal data (ie "small data") in return for something 
 * Context 2: Point in time when a organization exchanges big data with personl data (small data) of individuals mixed in with big data
 
-# 3. Implementation Incentives
+# 3. Implementation 
 
 Why should people (individuals, businesses, lawmakers) care about ethics
 
