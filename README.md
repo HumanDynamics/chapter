@@ -16,10 +16,16 @@ This Repository is provided to facilitate collaborative drafting and coordinatio
 * Human Oversight enabling individuals to trigger meaningful access to human decision makers (to answer complaint/question and appeals)
 * Algorithmic failure conditions triggering human intervention
 
-**Title Decomposition**
-* Collection:
-* Storage:
-* Exchange: 
+
 
 **Research Avenues**
 * placeholder
+
+
+# Title Decomposition
+
+
+##  Collection:
+
+## Storage:
+##  Exchange: 
