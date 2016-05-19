@@ -25,7 +25,9 @@ Covering the small and big data lifecycles;
 
 #### Use:
 
-#### Translation and Transformation: (eg from csv to json and also from web logs to sales breakdown/forcast)
+#### Translation and Transformation:
+* Simple transformations (e.g. csv -> json)
+* Complex derivative works (web logs -> sales breakdown/forcast)
 
 #### Exchange: 
 
@@ -78,7 +80,6 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 
 # Parking Lot
 
-
 **Approaches**
 * The New Deal on Data (individuals own and control their personal data)
 * Algorithmic Law (eg next gen municipal reg of sharing econ svcs to ensure fair, equitable results)
@@ -86,11 +87,8 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 * Human Oversight enabling individuals to trigger meaningful access to human decision makers (to answer complaint/question and appeals)
 * Algorithmic failure conditions triggering human intervention
 
-
-
 **Research Avenues**
 * placeholder
-
 
 # Title Decomposition
 
