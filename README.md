@@ -10,18 +10,18 @@ Working Outline
 Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
 
 
-## Existing Systems Exemplifying Ethical Precepts
-
-## Nature and Shape of Needed Methods, Mechanisms and Modes 
+## Systems Exemplifying Ethical Precepts
 
 * Modeling Data Systems to Include Ethics for Small and Big Data
-
 
 ### Potential Scenarios and Use Cases
 
 * IAuth, 
 * Algorithmic Law, 
 * Data Fiduciaries, etc
+
+### Abstracting Out the Nature and Shape of Needed Methods, Mechanisms and Modes 
+
 
 ##  Initial Motivation and Continuing Incentives
 
