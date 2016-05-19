@@ -7,6 +7,7 @@ Working Outline
 ## History and Context
 
 * Existence of Data Systems as Emergent Happenings
+* 
 Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
 
 * Current state of affairs demonstrates need for solutions now.
