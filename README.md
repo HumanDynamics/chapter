@@ -11,4 +11,4 @@ Ethical Issues:
 
 **Approaches**
 * The New Deal on Data (individuals own and control their personal data)
-* 
+* Algorithmic Law (eg next gen municipal reg of sharing econ svcs to ensure fair, equitable results)
