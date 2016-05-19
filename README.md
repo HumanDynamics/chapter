@@ -49,7 +49,7 @@ This Repository is provided to facilitate collaborative drafting and coordinatio
 * Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
 
 
-* Models of Systems Exemplifying Ethical Precepts
+* Existing Systems Exemplifying Ethical Precepts
 
 * Modeling Data Systems to Include Ethics for Small and Big Data
 
