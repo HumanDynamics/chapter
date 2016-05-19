@@ -46,4 +46,16 @@ This Repository is provided to facilitate collaborative drafting and coordinatio
 
 ###### Existance of Data Systems as Emergent Happenings
 
-* Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist. 
+* Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
+
+
+* Models of Systems Exemplifying Ethical Precepts
+
+* Modeling Data Systems to Include Ethics for Small and Big Data
+
+* Nature and Shape of Needed Methods, Mechanisms and Modes 
+
+* Potential Scenarios and Use Cases
+
+* Initial Motivation and Continuing Incentives
+
