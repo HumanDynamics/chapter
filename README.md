@@ -67,9 +67,9 @@ Covering the small and big data lifecycles;
 * Context 1: Point in time when individuals agree to exchange access to their personal data (ie "small data") in return for something 
 * Context 2: Point in time when a organization exchanges big data with personl data (small data) of individuals mixed in with big data
 
-# Incentives
+# Implementation Incentives
 
-Why should people (individuals, businesses, lawmakers) care about ethics?
+Why should people (individuals, businesses, lawmakers) care about ethics
 
 ##  Initial Motivations
 
@@ -79,7 +79,7 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 * Think-tanks
 * Philanthropic thought leaders
 
-### Long-term incentives
+## Long-term incentives
 
 Continuing incentives for building & deployment are needed after initial systems exist.
 
@@ -89,3 +89,6 @@ Continuing incentives for building & deployment are needed after initial systems
 * Novel systems built around ethical foundations
 * Goodwill / altruism
 
+## Implementation Metrics 
+
+* How do we know that the system is properly implementing the ethical dimension of requirements, constraints and expected success outcomes?  What testing, reporting, sensor-based or other solutions can ensure the initial and evolving system implementation maintains ethical fidelity?
