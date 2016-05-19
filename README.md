@@ -4,7 +4,7 @@ Working Outline
 
 **Title: Ethical Issues of Data Collection, Storage and Exchange**
 
-# History and Context
+# Context
 
 
 
@@ -27,6 +27,8 @@ Given that the new class of large data systems relevant to personal data have pr
 * Example: Voting - Gets aggregate results and blinds individual voter ID from otherwise transparent process
 * Example: Judicial Records - Ability to seal records and redact personal info from public records
 * Example: etc...
+
+# Solutions
 
 ## Potential Scenarios and Use Cases
 
@@ -65,11 +67,11 @@ Covering the small and big data lifecycles;
 * Context 1: Point in time when individuals agree to exchange access to their personal data (ie "small data") in return for something 
 * Context 2: Point in time when a organization exchanges big data with personl data (small data) of individuals mixed in with big data
 
-##  Initial Motivation and Continuing Incentives
+# Incentives
 
 Why should people (individuals, businesses, lawmakers) care about ethics?
 
-### Incentives for building & deployment
+##  Initial Motivations
 
 * Thought-leading competitions (like crowdsourcing of chapters for this book)
 * Grant-funded R&D projects
@@ -78,6 +80,8 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 * Philanthropic thought leaders
 
 ### Long-term incentives
+
+Continuing incentives for building & deployment are needed after initial systems exist.
 
 * Aligning solutions to existing mandatory law
 * Aligning solutions to economic incentives
