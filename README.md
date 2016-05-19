@@ -8,3 +8,7 @@ Ethical Issues:
 * Untruths or Dishonesty 
 * Theft and "Conversion of Property" 
 * Violence and Harm to People
+
+**Approaches**
+* The New Deal on Data (individuals own and control their personal data)
+* 
