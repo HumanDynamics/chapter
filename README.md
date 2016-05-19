@@ -1,8 +1,34 @@
 This Repository is provided to facilitate collaborative drafting and coordination for writing the chapter titled: "Ethical Issues of Data Collection, Storage and Exchange" for the Springer Book: [title](http://www.example.org/)
 
+Working Outline
+
+# Ethical Issues of Data Collection, Storage and Exchange
+
+## History and Context
+
+* Existance of Data Systems as Emergent Happenings
+Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
 
 
-**Parking Lot**
+## Existing Systems Exemplifying Ethical Precepts
+
+## Nature and Shape of Needed Methods, Mechanisms and Modes 
+
+* Modeling Data Systems to Include Ethics for Small and Big Data
+
+
+### Potential Scenarios and Use Cases
+
+* IAuth, 
+* Algorithmic Law, 
+* Data Fiduciaries, etc
+
+##  Initial Motivation and Continuing Incentives
+
+
+
+
+# Parking Lot**
 
 **Ethical Issues:**
 * Untruths or Dishonesty 
@@ -43,19 +69,3 @@ This Repository is provided to facilitate collaborative drafting and coordinatio
 #### Preliminaries
 
 ##### Overview
-
-###### Existance of Data Systems as Emergent Happenings
-
-* Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
-
-
-* Existing Systems Exemplifying Ethical Precepts
-
-* Modeling Data Systems to Include Ethics for Small and Big Data
-
-* Nature and Shape of Needed Methods, Mechanisms and Modes 
-
-* Potential Scenarios and Use Cases
-
-* Initial Motivation and Continuing Incentives
-
