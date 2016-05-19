@@ -6,8 +6,7 @@ Working Outline
 
 ## History and Context
 
-
-* Existance of Data Systems as Emergent Happenings
+* Existence of Data Systems as Emergent Happenings
 Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
 
 * Current state of affairs demonstrates need for solutions now.
@@ -39,19 +38,41 @@ Covering the small and big data lifecycles;
 
 ### Potential Scenarios and Use Cases
 
-* IAuth, 
-* Algorithmic Law, 
-* Data Fiduciaries, etc
+* IAuth
+* Algorithmic Law
+* Data Fiduciaries
+* etc...
 
 ### Abstracting Out the Nature and Shape of Needed Methods, Mechanisms and Modes 
 
+* Individual identity authentication & authorization management
+* Systemic ethical metrics 
+* Human oversight & review
+* In Case Of Emergency... (backups, redundancy, and alternatives)
 
 ##  Initial Motivation and Continuing Incentives
 
+Why should people (individuals, businesses, lawmakers) care about ethics?
+
+### Incentives for building & deployment
+
+* Thought-leading competitions (like crowdsourcing of chapters for this book)
+* Grant-funded R&D projects
+* Innovative startups
+* Think-tanks
+* Philanthropic thought leaders
+
+### Long-term incentives
+
+* Aligning solutions to existing mandatory law
+* Aligning solutions to economic incentives
+* NOT making new laws
+* Novel systems built around ethical foundations
+* Goodwill / altruism
 
 
 
-# Parking Lot**
+# Parking Lot
 
 **Ethical Issues:**
 * Untruths or Dishonesty 
