@@ -6,11 +6,14 @@ Working Outline
 
 ## History and Context
 
-* Existence of Data Systems as Emergent Happenings
-* 
 Given that the new class of large data systems relevant to personal data have primarily sprung into existence based upon haphazard application of relative recent business and technical innovations, it is perhaps understandable that a clear and sufficient ethical basis for the collection, storage and exchange of data in these systems does not yet exist.
 
 * Current state of affairs demonstrates need for solutions now.
+
+### Ethical Issues
+* Untruths or Dishonesty 
+* Theft and "Conversion of Property" 
+* Violence and Harm to People
 
 ## Solutions Must Cover the Entire Data Lifecycle
 
@@ -75,10 +78,6 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 
 # Parking Lot
 
-**Ethical Issues:**
-* Untruths or Dishonesty 
-* Theft and "Conversion of Property" 
-* Violence and Harm to People
 
 **Approaches**
 * The New Deal on Data (individuals own and control their personal data)
@@ -104,5 +103,4 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 
 * Context 1: Point in time when individuals agree to exchange access to their personal data (ie "small data") in return for something 
 * Context 2: Point in time when a organization exchanges big data with personl data (small data) of individuals mixed in with big data
-
 
