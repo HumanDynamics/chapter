@@ -4,7 +4,7 @@ This Repository is provided to facilitate collaborative drafting and coordinatio
 
 **Parking Lot**
 
-Ethical Issues: 
+**Ethical Issues:**
 * Untruths or Dishonesty 
 * Theft and "Conversion of Property" 
 * Violence and Harm to People
