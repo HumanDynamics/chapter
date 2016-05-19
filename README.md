@@ -2,9 +2,9 @@ This Repository is provided to facilitate collaborative drafting and coordinatio
 
 Working Outline
 
-**Title: Ethical Issues of Data Collection, Storage and Exchange**
+# Title: Ethical Issues of Data Collection, Storage and Exchange
 
-# Context
+# 1. Context
 
 
 
@@ -28,7 +28,7 @@ Given that the new class of large data systems relevant to personal data have pr
 * Example: Judicial Records - Ability to seal records and redact personal info from public records
 * Example: etc...
 
-# Solutions
+# 2. Solutions
 
 ## Potential Scenarios and Use Cases
 
@@ -67,7 +67,7 @@ Covering the small and big data lifecycles;
 * Context 1: Point in time when individuals agree to exchange access to their personal data (ie "small data") in return for something 
 * Context 2: Point in time when a organization exchanges big data with personl data (small data) of individuals mixed in with big data
 
-# Implementation Incentives
+# 3. Implementation Incentives
 
 Why should people (individuals, businesses, lawmakers) care about ethics
 
