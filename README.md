@@ -88,4 +88,3 @@ Why should people (individuals, businesses, lawmakers) care about ethics?
 * Algorithmic failure conditions triggering human intervention
 
 **Research Avenues**
-* placeholder
