@@ -121,3 +121,11 @@ Continuing incentives for building & deployment are needed after initial systems
 ## Implementation Metrics 
 
 * How do we know that the system is properly implementing the ethical dimension of requirements, constraints and expected success outcomes?  What testing, reporting, sensor-based or other solutions can ensure the initial and evolving system implementation maintains ethical fidelity?
+* 
+
+-----
+
+Parking Lot
+
+
+* Check out: https://bol.bna.com/how-big-data-analytics-is-changing-legal-ethics/  (thanks to Dan Linna!)
