@@ -7,7 +7,7 @@ Working Outline
 ToC:
 
 
-1. Context
+1 Context
 
 Scan of Landscape
 
@@ -16,7 +16,7 @@ Ethical Issues
 Systems Exemplifying Ethical Precepts
 
 
-2. Solutions
+2 Solutions
 
 Potential Scenarios and Use Cases
 
@@ -25,13 +25,14 @@ Abstracting Out the Nature and Shape of Needed Methods, Mechanisms and Modes
 Solutions Must Cover the Entire Data Lifecycle
 
 
-3. Implementation 
+3 Implementation 
 
 Initial Motivations
 
 Long-term incentives
 
 Implementation Metrics
+
 
 # 1. Context
 
