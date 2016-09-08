@@ -1,4 +1,4 @@
-This Repository is provided to facilitate collaborative drafting and coordination for writing the chapter titled: "Ethical Issues of Data Collection, Storage and Exchange" for the Springer Book: [title](http://www.example.org/)
+This Repository is provided to facilitate collaborative drafting and coordination for writing the chapter titled: "Ethical Issues of Data Collection, Storage and Exchange" for the Springer Book: [http://dbdmg.polito.it/glass-boxDM/](http://dbdmg.polito.it/glass-boxDM/)
 
 Working Outline
 
