@@ -1,4 +1,7 @@
-This Repository is provided to facilitate collaborative drafting and coordination for writing the chapter titled: "Ethical Issues of Data Collection, Storage and Exchange" for the Springer Book: [http://dbdmg.polito.it/glass-boxDM/](http://dbdmg.polito.it/glass-boxDM/)
+This Repository is provided to facilitate collaborative drafting and coordination for writing the chapter titled: "Ethical Issues of Data Collection, Storage and Exchange" 
+* This working draft is intended for publication in the forthcoming Springer Book: [http://dbdmg.polito.it/glass-boxDM/](http://dbdmg.polito.it/glass-boxDM/)
+* Stable working draft versions draft can be found at: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2836786
+
 
 Working Outline
 
